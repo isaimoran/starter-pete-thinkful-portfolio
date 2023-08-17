@@ -76,3 +76,43 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.header-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-section {
+  display: flex;
+  flex-direction: row;
+}
+
+.divs {
+  flex-direction: column;
+  width: 650px;
+  padding: 10px;
+  text-align: left;
+}
+
+.portfolio-section {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.margin-top {
+  margin: 75px 0px 0px;
+}
+
+.project-descriptions {
+  size: 14px;
+}
+
+.ps {
+  text-align: center;
+  width: 200px;
+}
+.space {
+  padding: 10px
+}
